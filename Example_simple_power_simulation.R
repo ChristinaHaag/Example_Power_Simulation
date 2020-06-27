@@ -10,6 +10,7 @@ set.seed(1234)
 N <- 100
 
 
+p.value <- list()
 # Conduct 1000 simulations
 for(i in 1:1000) {
   
